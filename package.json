@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@sourceressj2001/veritatis-quae-autem",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,20 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/sourceressj2001/veritatis-quae-autem.git"
   },
   "dependencies": {
+    "@sourceressj2001/beatae-aspernatur-quia": "^1.0.0",
+    "@sourceressj2001/cum-amet-voluptatibus": "^1.0.0",
+    "@sourceressj2001/doloremque-voluptatibus-quod": "^1.0.0",
+    "@sourceressj2001/eos-ipsa-repellat": "^1.0.0",
+    "@sourceressj2001/excepturi-iusto-a": "^1.0.0",
+    "@sourceressj2001/expedita-iste-nisi": "^1.0.0",
+    "@sourceressj2001/facilis-quisquam-hic": "^1.0.0",
+    "@sourceressj2001/iure-voluptates-ipsam": "^1.0.0",
+    "@sourceressj2001/quasi-tenetur-labore": "^1.0.0",
+    "@sourceressj2001/quo-quae-magnam": "^1.0.0",
+    "@sourceressj2001/totam-nisi-autem": "^1.0.0",
+    "@sourceressj2001/voluptatibus-architecto-repudiandae": "^1.0.0"
   }
 }
